@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "title": "APPLES",
+      "descr": "1kg, green",
+      "status": "new"
+    },
+    {
+      "id": "2",
+      "title": "BREAD",
+      "descr": "hlib i kava",
+      "status": "inProgress"
+    },
+    {
+      "id": "3",
+      "title": "AIRAN",
+      "descr": "bottles: 3",
+      "status": "done"
+    }
+  ]
+}

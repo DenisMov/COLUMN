@@ -1,0 +1,29 @@
+.app {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  padding: 0 150px;
+  height: 95vh;
+}
+
+.columnStyle {
+  background-color: antiquewhite;
+  width: 270px;
+  height: 100%;
+}
+
+.column {
+  display: grid;
+  justify-content: center;
+  padding: 20px;
+}
+
+.orange {
+  background-color: orange;
+}
+.black {
+  background-color: black;
+}
+.green {
+  background-color: green;
+}
